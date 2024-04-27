@@ -1,6 +1,6 @@
 {
-    "name": "login_authentication",
-    "short_name": "login_authentication",
+    "name": "my_elc",
+    "short_name": "my_elc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
